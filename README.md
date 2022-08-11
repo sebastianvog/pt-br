@@ -1,2 +1,3 @@
 # pt-br
-Portuguese Learning Wiki
+All content can be found in the Wiki:
+[Portuguese Learning Wiki](https://github.com/sebastianvog/pt-br/wiki)
